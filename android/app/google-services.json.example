@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "project_id": "cannaai-demo-project",
+    "storage_bucket": "cannaai-demo-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:abcdef123456789012345678",
+        "android_client_info": {
+          "package_name": "com.cannaai.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456789012-abcdefghijklmnopqrstuvwxyz123456.apps.googleusercontent.com",
+          "client_type": 1,
+          "audience": [
+            "123456789012-abcdefghijklmnopqrstuvwxyz123456.apps.googleusercontent.com"
+          ]
+        },
+        {
+          "client_id": "123456789012-zyxwvutsrqponmlkjihgfedcba654321.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbCdEfGhIjKlMnOpQrStUvWxYz1234567890"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456789012-zyxwvutsrqponmlkjihgfedcba654321.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

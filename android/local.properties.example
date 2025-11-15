@@ -1,0 +1,17 @@
+# This file contains the path to the Android SDK and Flutter SDK
+# Copy this file to 'local.properties' and update the paths for your system
+
+# Android SDK location
+sdk.dir=C:\\Users\\{YOUR_USERNAME}\\AppData\\Local\\Android\\Sdk
+
+# Flutter SDK location
+flutter.sdk=C:\\Users\\{YOUR_USERNAME}\\flutter
+
+# Optional: Set your Android NDK location if needed
+# ndk.dir=C:\\Users\\{YOUR_USERNAME}\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393
+
+# Instructions:
+# 1. Copy this file to 'local.properties' (remove .example extension)
+# 2. Replace {YOUR_USERNAME} with your actual Windows username
+# 3. Update the paths to match your actual Android SDK and Flutter SDK locations
+# 4. Uncomment and set ndk.dir if you need the Android NDK for native code

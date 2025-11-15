@@ -1,0 +1,139 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Gradle wrapper
+!android/gradle/wrapper/gradle-wrapper.jar
+!android/gradlew
+!android/gradlew.bat
+
+# Local configuration file (sdk path, etc)
+/android/local.properties
+
+# Keystore files
+/android/app/key.properties
+*.jks
+*.keystore
+
+# External dependencies
+/third_party/
+
+# NPM
+node_modules/
+npm-debug.log
+
+# Yarn
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Fastlane
+/fastlane/report.xml
+/fastlane/Preview.html
+/fastlane/screenshots/**/*.png
+/fastlane/test_output
+
+# Firebase
+/google-services.json
+/android/app/google-services.json
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# IDE workspace files
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Build artifacts that shouldn't be committed
+/build/
+dist/
+out/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Coverage reports
+/coverage/
+
+# Test artifacts
+/test/coverage/
+test-reports/
+
+# Local development files
+/.local/
